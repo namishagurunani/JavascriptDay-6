@@ -63,6 +63,10 @@ form button{
     outline: none;
     border: none;
 }
+form button:hover{
+  background-color: rgb(123, 105, 105);
+   color: black;
+}
 .profileInfo, .misc, .info, .links{
     display: flex;
     justify-content: space-between;
